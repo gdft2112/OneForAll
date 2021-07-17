@@ -20,4 +20,4 @@ def oneforall(domain):
 
 
 if __name__ == '__main__':
-    oneforall('freebuf.com')
+    oneforall('bankaletihad.com')
