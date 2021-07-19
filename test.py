@@ -20,4 +20,4 @@ def oneforall(domain):
 
 
 if __name__ == '__main__':
-    oneforall('skyscanner.net')
+    oneforall('ele.me')
